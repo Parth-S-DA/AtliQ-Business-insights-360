@@ -38,56 +38,49 @@ The project was executed through the following key stages:
 
 
 ## Tech stack learned:
-➡ SQL
+🛠️ SQL
 
-➡ PowerBi Desktop
+🛠️ PowerBi Desktop
 
-➡ Excel
+🛠️ Excel
 
-➡ DAX language
+🛠️ DAX language
 
-➡ DAX studio (for optimizing the report)
+🛠️ DAX studio (for optimizing the report)
 
 ## Power BI techniques learned:
 
-➡Creating calculated columns.
+➤ Creating calculated columns.
 
-➡ Creating measures using the DAX language.
+➤ Creating measures using the DAX language.
 
-➡ Data modeling.
+➤ Data modeling.
 
-➡ Using bookmarks to switch between two visuals.
+➤ Using bookmarks to switch between two visuals.
 
-➡ Page navigation with buttons.
+➤ Page navigation with buttons.
 
-➡ Using the divide function to prevent zero division errors.
+➤ Using the divide function to prevent zero division errors.
 
-➡ Creating a date table using the M language.
+➤ Creating a date table using the M language.
 
-➡ Dynamic titles based on the applied filters.
+➤ Dynamic titles based on the applied filters.
 
-➡ Using KPI indicators.
+➤ Using KPI indicators.
 
-➡ Conditional formatting of the values in visuals using icons or background colour.
+➤ Conditional formatting of the values in visuals using icons or background colour.
 
-➡ Data validation techniques.
+➤ Data validation techniques.
 
-➡ PowerBi services.
+➤ PowerBi services.
 
-➡ Publishing reports to PowerBI services.
+➤ Publishing reports to PowerBI services.
 
-➡ Setting up a personal gateway to set up the auto-refresh of data.
+➤ Setting up a personal gateway to set up the auto-refresh of data.
 
-## Tools used:
-➡Power BI
 
-➡Excel
 
-➡MySQL
-
-➡Dax studio
-
-## Attribute for background and icons used:
+### Attribute for background and icons used:
 [Background](<a href="https://www.freepik.com/free-vector/winter-blue-pink-gradient-background-vector_16358985.htm#fromView=search&page=1&position=41&uuid=bddb5c14-ab05-42a2-a6b0-cc88bdf14a44">Image by rawpixel.com on Freepik</a>
 <img width="1659" height="46" alt="image" src="https://github.com/user-attachments/assets/92fd2a6c-a50d-4f02-a202-401b3abdc3a2" />)
 
