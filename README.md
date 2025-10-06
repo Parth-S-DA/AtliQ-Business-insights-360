@@ -81,17 +81,22 @@ The project was executed through the following key stages:
 
 
 ### Attribute for background and icons used:
-[Background](<a href="https://www.freepik.com/free-vector/winter-blue-pink-gradient-background-vector_16358985.htm#fromView=search&page=1&position=41&uuid=bddb5c14-ab05-42a2-a6b0-cc88bdf14a44">Image by rawpixel.com on Freepik</a>
-<img width="1659" height="46" alt="image" src="https://github.com/user-attachments/assets/92fd2a6c-a50d-4f02-a202-401b3abdc3a2" />)
+[Background](<a href="https://www.freepik.com/free-vector/winter-blue-pink-gradient-background-vector_16358985.htm#fromView=search&page=1&position=41&uuid=bddb5c14-ab05-42a2-a6b0-cc88bdf14a44">Image by rawpixel.com on Freepik</a>)
 
-[Icons](<a href="https://www.flaticon.com/free-icons/finance" title="finance icons">Finance icons created by Good Ware - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/info" title="info icons">Info icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/homepage" title="homepage icons">Homepage icons created by Aldo Cervantes - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/supply-chain-management" title="supply chain management icons">Supply chain management icons created by Parzival’ 1997 - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/acquisition" title="acquisition icons">Acquisition icons created by Eucalyp - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/marketing" title="marketing icons">Marketing icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/question" title="question icons">Question icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/businessman" title="businessman icons">Businessman icons created by juicy_fish - Flaticon</a>
-<img width="1479" height="180" alt="image" src="https://github.com/user-attachments/assets/77e487d9-7f46-4f24-a5a7-6e1b2c58aadb" />)
+[Icons](<a href="https://www.flaticon.com/free-icons/finance" title="finance icons">Finance icons created by Good Ware - Flaticon</a>)
+
+[Icons](<a href="https://www.flaticon.com/free-icons/info" title="info icons">Info icons created by Freepik - Flaticon</a>)
+
+[Icons](<a href="https://www.flaticon.com/free-icons/homepage" title="homepage icons">Homepage icons created by Aldo Cervantes - Flaticon</a>)
+
+[Icons](<a href="https://www.flaticon.com/free-icons/supply-chain-management" title="supply chain management icons">Supply chain management icons created by Parzival’ 1997 - Flaticon</a>)
+
+[Icons](<a href="https://www.flaticon.com/free-icons/acquisition" title="acquisition icons">Acquisition icons created by Eucalyp - Flaticon</a>)
+
+[Icons](<a href="https://www.flaticon.com/free-icons/marketing" title="marketing icons">Marketing icons created by Freepik - Flaticon</a>)
+
+[Icons](<a href="https://www.flaticon.com/free-icons/question" title="question icons">Question icons created by Freepik - Flaticon</a>)
+
+[Icons](<a href="https://www.flaticon.com/free-icons/businessman" title="businessman icons">Businessman icons created by juicy_fish - Flaticon</a>)
 
 
